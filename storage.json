@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "title": "Война и Мир",
+        "author": "Сергей М",
+        "year": 2021,
+        "status": "выдана"
+    },
+    {
+        "id": 2,
+        "title": "Test Book",
+        "author": "Test Author",
+        "year": 2024,
+        "status": "в наличии"
+    },
+    {
+        "id": 3,
+        "title": "Search Test",
+        "author": "Search Author",
+        "year": 2024,
+        "status": "в наличии"
+    },
+    {
+        "id": 4,
+        "title": "Status Test",
+        "author": "Author",
+        "year": 2024,
+        "status": "выдана"
+    },
+    {
+        "id": 5,
+        "title": "Test Book",
+        "author": "Test Author",
+        "year": 2024,
+        "status": "в наличии"
+    },
+    {
+        "id": 6,
+        "title": "Search Test",
+        "author": "Search Author",
+        "year": 2024,
+        "status": "в наличии"
+    },
+    {
+        "id": 7,
+        "title": "Status Test",
+        "author": "Author",
+        "year": 2024,
+        "status": "выдана"
+    }
+]
